@@ -1,0 +1,9 @@
+{
+  "name": "wp-split-bot",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.11",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
